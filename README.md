@@ -1,4 +1,6 @@
 # OneStop Electronics E-Commerce Analysis
+<img width="1269" height="386" alt="mealime-logo-smaller-text-transparent" src="https://github.com/user-attachments/assets/9c7f627b-cc79-48d7-8ced-c7b884a01225" />
+
 ![My SVG](https://raw.githubusercontent.com/svgviewer-output.svg)
 ![svgviewer-output](https://github.com/user-attachments/assets/3d18fec3-5562-4002-b6f4-c2f2deca6682)
 <img width="1470" height="376" alt="mealime-logo-white-bg" src="https://github.com/user-attachments/assets/6b2255e0-836a-4050-85d2-eba6e2721b99" />
