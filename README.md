@@ -1,6 +1,8 @@
 # OneStop Electronics E-Commerce Analysis
  <img width="1470" height="376" alt="mealime-logo-white-bg" src="https://github.com/user-attachments/assets/5c4554fa-1e03-4aeb-b10f-d6599cb57b18" />
  <img width="1470" height="376" alt="mealime-logo-white-bg-smaller-text" src="https://github.com/user-attachments/assets/70a23e51-e181-4e90-98de-48ef3f8dbbb7" />
+ 
+<img width="1350" height="249" alt="mealime-logo-transparent-smaller-text" src="https://github.com/user-attachments/assets/df346287-66f0-4c6d-a307-b6771c45df67" />
 
 
 ## Company Background
